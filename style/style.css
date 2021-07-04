@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-weight: 50px;
+    font-size: 65px;
+}
+strong{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
+h2 a{
+    background-image: linear-gradient(to left, rgb(138, 9, 9), rgb(202, 202, 10));
+    text-decoration: none;
+    padding: 5px;
+    color: #fff;
+
+}
+span{
+    color:yellowgreen;
+}
+section{
+    display: flex;;
+}
+.welcome-part{
+    background-image: url(../img/top-banner.png);
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 50%;
+    margin: 20px;
+}
+.half-width img{
+    width: 70%;    
+}
