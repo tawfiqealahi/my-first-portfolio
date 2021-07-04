@@ -23,7 +23,7 @@ span{
     color:yellowgreen;
 }
 section{
-    display: flex;;
+    display: flex;
 }
 .welcome-part{
     background-image: url(../img/top-banner.png);
@@ -35,4 +35,19 @@ section{
 }
 .half-width img{
     width: 70%;    
+}
+.middle{
+    width: 50%;
+    margin: 20px;
+}
+.middle img{
+    width: 70%;
+    border-radius:  50%;
+}
+.dream-part{
+    background-image: url(../img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-top: 20px;
+
 }
